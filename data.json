@@ -1,0 +1,17 @@
+  [{
+    "q":"1.What command is used to count the total number of lines, words, and characters contained in a file?",
+    "opt1": "countw",
+    "opt2": "wcount",
+    "opt3": "wc",
+    "answer": "wc"
+},
+{
+    "q":"1hdshdskhdfshdsfjhdsfkljdkljksdljksdjdvsk",
+    "opt1": "fgj",
+    "opt2": "wcount",
+    "opt3": "wc",
+    "answer": "wc"
+}]
+
+ 
+
